@@ -139,26 +139,19 @@ h1{
 
 }
 
-.ph5{
-	margin-left: 165px;
-	margin-top: 30px;
+.left{
+	vertical-align: middle;
+	display: inline-block;
 }
 
-.ph6{
-	margin-left: 165px;
-	margin-top: 42px;
+
+.right{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 900px;
+	image-rendering: 500px;
 }
 
-.title4{
-	position: absolute;
-            top:790px;
-            left:460px ;
-            color:#FFFFFF;
-            font-size: 20px;
-            font-weight: bold;
-
-            padding: 4px 8px;
-}
 
 
 
