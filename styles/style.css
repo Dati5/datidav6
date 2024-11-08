@@ -142,16 +142,91 @@ h1{
 .left{
 	vertical-align: middle;
 	display: inline-block;
+	margin-left: 165px;
+	margin-top:30px;
+	
 }
 
 
 .right{
 	display: inline-block;
 	vertical-align: middle;
-	margin-left: 900px;
-	image-rendering: 500px;
+	margin-left:35px;
+	margin-top:0px;
+	margin-bottom: 45px;
+
+}
+.right img{
+	margin:30px;
+}
+
+
+.left img{
+	margin-bottom: 35px;
 }
 
 
 
 
+
+
+.container{
+	display: flex;
+    
+}
+
+
+ footer {
+      width:1440px;
+      height: 201px;
+      background-color: #243043;
+    }
+
+
+h4{
+	margin-left:670px;
+	color: #FFFFFF;
+	margin-bottom: -100px;
+	display: inline-block;
+
+}
+
+
+
+
+
+
+.home {
+	display: inline-block;
+	margin-left: 137px;
+	color: #818687;
+	margin-top: 20px;
+	
+}
+.about{
+	display: inline-block;
+	margin-left:75px;
+	color: #818687;
+	margin-top: 20px;
+
+
+	
+
+}
+.testimonials{
+	display: inline-block;
+	margin-left:126px;
+	margin-bottom:; 
+	color:#818687 ;
+	margin-top: 20px;
+
+}
+
+p{
+	margin:14px;
+}
+.logo{
+	margin-left: 1264px;
+	margin-top:-103px;
+	margin-bottom: 108px;
+}
