@@ -139,7 +139,26 @@ h1{
 
 }
 
+.ph5{
+	margin-left: 165px;
+	margin-top: 30px;
+}
 
+.ph6{
+	margin-left: 165px;
+	margin-top: 42px;
+}
+
+.title4{
+	position: absolute;
+            top:790px;
+            left:460px ;
+            color:#FFFFFF;
+            font-size: 20px;
+            font-weight: bold;
+
+            padding: 4px 8px;
+}
 
 
 
